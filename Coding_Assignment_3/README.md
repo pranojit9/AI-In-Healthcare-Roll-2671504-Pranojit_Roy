@@ -1,4 +1,4 @@
-# Image-Based Cancer Diagnosis Using Convolutional Neural Networks (CNNs)
+# Image-Based Cancer Diagnosis Using Convolutional Neural Networks
 
 # 📌 Project Overview
 
